@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|c:\\users\\augusto.morais\\source\\repos\\workerservice_eletromonte\\workerservice_eletromonte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|solutionrelative:workerservice_eletromonte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|c:\\users\\augusto.morais\\source\\repos\\workerservice_eletromonte\\workerservice_eletromonte\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|solutionrelative:workerservice_eletromonte\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|c:\\users\\augusto.morais\\source\\repos\\workerservice_eletromonte\\workerservice_eletromonte\\infraestructure\\persistence\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|solutionrelative:workerservice_eletromonte\\infraestructure\\persistence\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|c:\\users\\augusto.morais\\source\\repos\\workerservice_eletromonte\\workerservice_eletromonte\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|solutionrelative:workerservice_eletromonte\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|c:\\users\\augusto.morais\\source\\repos\\workerservice_eletromonte\\workerservice_eletromonte\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|solutionrelative:workerservice_eletromonte\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|c:\\users\\augusto.morais\\source\\repos\\workerservice_eletromonte\\workerservice_eletromonte\\infraestructure\\http\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|solutionrelative:workerservice_eletromonte\\infraestructure\\http\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|c:\\users\\augusto.morais\\source\\repos\\workerservice_eletromonte\\workerservice_eletromonte\\domain\\entities\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0D4F9A-8311-4243-BABF-A1FDA2FC4A6C}|WorkerService_Eletromonte\\WorkerService_Eletromonte.csproj|solutionrelative:workerservice_eletromonte\\domain\\entities\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 674,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Dockerfile",
+              "RelativeDocumentMoniker": "WorkerService_Eletromonte\\Dockerfile",
+              "ToolTip": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Dockerfile",
+              "RelativeToolTip": "WorkerService_Eletromonte\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-20T02:18:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkerService_Eletromonte\\appsettings.json",
+              "ToolTip": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\appsettings.json",
+              "RelativeToolTip": "WorkerService_Eletromonte\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T01:47:04.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerService_Eletromonte\\Program.cs",
+              "ToolTip": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Program.cs",
+              "RelativeToolTip": "WorkerService_Eletromonte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:02:11.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Worker.cs",
+              "RelativeDocumentMoniker": "WorkerService_Eletromonte\\Worker.cs",
+              "ToolTip": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Worker.cs",
+              "RelativeToolTip": "WorkerService_Eletromonte\\Worker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:00:00.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Infraestructure\\Persistence\\SupabaseService.cs",
+              "RelativeDocumentMoniker": "WorkerService_Eletromonte\\Infraestructure\\Persistence\\SupabaseService.cs",
+              "ToolTip": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Infraestructure\\Persistence\\SupabaseService.cs",
+              "RelativeToolTip": "WorkerService_Eletromonte\\Infraestructure\\Persistence\\SupabaseService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:52:28.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Infraestructure\\http\\ApiService.cs",
+              "RelativeDocumentMoniker": "WorkerService_Eletromonte\\Infraestructure\\http\\ApiService.cs",
+              "ToolTip": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Infraestructure\\http\\ApiService.cs",
+              "RelativeToolTip": "WorkerService_Eletromonte\\Infraestructure\\http\\ApiService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:51:04.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Imagem.cs",
+              "DocumentMoniker": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Domain\\Entities\\Imagem.cs",
+              "RelativeDocumentMoniker": "WorkerService_Eletromonte\\Domain\\Entities\\Imagem.cs",
+              "ToolTip": "C:\\Users\\augusto.morais\\source\\repos\\WorkerService_Eletromonte\\WorkerService_Eletromonte\\Domain\\Entities\\Imagem.cs",
+              "RelativeToolTip": "WorkerService_Eletromonte\\Domain\\Entities\\Imagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:47:52.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
