@@ -7,20 +7,19 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 
-# Copia o .csproj e restaura dependências
-COPY WorkerService_Eletromonte/WorkerService_Eletromonte.csproj ./WorkerService_Eletromonte/
-RUN dotnet restore ./WorkerService_Eletromonte/WorkerService_Eletromonte.csproj
+# Copia o .csproj e restaura as dependências
+COPY *.csproj ./
+RUN dotnet restore
 
-# Copia o restante dos arquivos
-COPY WorkerService_Eletromonte/. ./WorkerService_Eletromonte/
-WORKDIR /src/WorkerService_Eletromonte
+# Copia o restante dos arquivos e compila
+COPY . ./
 RUN dotnet build -c $BUILD_CONFIGURATION -o /app/build
 
-# Publicação
+# Publica a aplicação
 FROM build AS publish
 RUN dotnet publish -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
 
-# Etapa final
+# Etapa final (runtime enxuto)
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
